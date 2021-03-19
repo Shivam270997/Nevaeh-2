@@ -33,7 +33,7 @@ int main()
         ifstream File1;
         ifstream File2;
         ofstream f1,f2,f;
-        int ln=0;
+        unsigned int ln=0;
         int count =0;
         string s;
         const char delim = ',';
